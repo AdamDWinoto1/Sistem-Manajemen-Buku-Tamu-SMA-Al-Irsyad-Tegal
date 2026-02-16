@@ -63,7 +63,7 @@ Website Buku Tamu ini dibuat sebagai bagian dari kegiatan Pengabdian Pada Masyar
 
 ---
 
-##🧩 Struktur Sistem
+## 🧩 Struktur Sistem
 ### Frontend
 - Halaman buku tamu
 - Form input tamu
@@ -94,7 +94,6 @@ Website Buku Tamu ini dibuat sebagai bagian dari kegiatan Pengabdian Pada Masyar
 ---
 
 ## 📷 Tampilan Sistem
-Berisi:
 - Halaman buku tamu
 - Form input tamu
 - Dashboard admin
