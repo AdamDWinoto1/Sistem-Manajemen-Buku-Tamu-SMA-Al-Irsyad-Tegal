@@ -5,7 +5,7 @@ Sistem Buku Tamu berbasis web yang dikembangkan untuk membantu SMA AL-Irsyad Kot
 Website ini memungkinkan tamu untuk mengisi data kunjungan secara online, serta membantu pihak sekolah dalam mengelola, memantau, dan membuat laporan data tamu secara otomatis.
 
 ## 📌 Project Overview
-### Website Buku Tamu ini dibuat sebagai bagian dari kegiatan Pengabdian Pada Masyarakat oleh mahasiswa Program Studi Sarjana Terapan Teknik Informatika.
+Website Buku Tamu ini dibuat sebagai bagian dari kegiatan Pengabdian Pada Masyarakat oleh mahasiswa Program Studi Sarjana Terapan Teknik Informatika.
 
 ## Tujuan utama sistem ini adalah:
 - Mempermudah pendataan tamu secara digital
@@ -105,7 +105,7 @@ Berisi:
 ## 📄 Lisensi
 Project ini dibuat untuk tujuan pendidikan dan pengabdian masyarakat.
 
-# 🏫 Solusi Digital untuk Buku Tamu Sekolah
+### 🏫 Solusi Digital untuk Buku Tamu Sekolah
 
 ---
 
