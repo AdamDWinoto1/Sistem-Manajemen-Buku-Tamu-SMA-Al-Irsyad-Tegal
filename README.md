@@ -105,10 +105,9 @@ Berisi:
 ## 📄 Lisensi
 Project ini dibuat untuk tujuan pendidikan dan pengabdian masyarakat.
 
-### 🏫 Solusi Digital untuk Buku Tamu Sekolah
-
 ---
 
-### Website ini membantu sekolah bertransformasi dari sistem manual menjadi sistem digital yang modern, efisien, dan profesional.
+## 🏫 Solusi Digital untuk Buku Tamu Sekolah
+Website ini membantu sekolah bertransformasi dari sistem manual menjadi sistem digital yang modern, efisien, dan profesional.
 
 ---
